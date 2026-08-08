@@ -1,0 +1,13 @@
+package.json
+{
+  "name": "esfotorama-whatsapp-webhook",
+  "version": "1.0.0",
+  "description": "ESFOTORAMA WhatsApp Cloud API Webhook",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
